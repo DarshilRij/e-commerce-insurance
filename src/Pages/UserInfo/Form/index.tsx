@@ -114,7 +114,7 @@ const UserInfo = () => {
           </SpaceWrapper>
 
           <Button type="submit" variant="contained">
-            Submit
+            Buy the Insurance
           </Button>
         </Box>
       </form>
